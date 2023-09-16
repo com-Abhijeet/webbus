@@ -54,7 +54,6 @@ input[type=text], input[type=password], input[type=email]{
 #srch-box{
     width: 40%;
     height: 5vh;
-    margin: 15% auto;
     display: flex;
     align-items: center;
     justify-content: center;

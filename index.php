@@ -26,9 +26,26 @@ session_start();
 
     <div class="ind-container">
         <form action="" method="post">
-            <h2>Search For a Bus to your next Destination</h2>
+    <h2>Search For a Bus to your next Destination</h2>
+
             <input type="text" name="srch-box" id="srch-box" placeholder="Search For a Bus">
-        </form>
+
     </div>
+    <div class="ind-container2">
+        <div class="card">
+            About us
+
+        </div>
+        <div class="card">
+            Book Tickets
+        </div>
+        <div class="card">
+            Bus Pass
+
+        </div>
+        <div class="card">
+            Reserve Tickets
+        </div>
+        </div>
 </body>
 </html>
