@@ -27,9 +27,12 @@ session_start();
     <div class="ind-container">
         <form action="" method="post">
     <h2>Search For a Bus to your next Destination</h2>
-
+        <div class="srch-frm">
+        <form  action="" method="post">
             <input type="text" name="srch-box" id="srch-box" placeholder="Search For a Bus">
-
+            <input type="date" name="date" id="date-pkr" placeholder="NONE">
+            </form>
+        </div>
     </div>
     <div class="ind-container2">
         <div class="card">
